@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🌱 I’m currently learning python.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning JavaScript
 - 🌱 I’m currently learning HTML
 - 🌱 I’m currently learning CSS
 - 👯 I’m looking to collaborate on my university.
